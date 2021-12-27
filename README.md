@@ -17,3 +17,5 @@ that I learned it in my second year of the Systems Engineering career.
 But of all these technologies the one that I like the most and I feel comfortable with is JavaScript ⚡.
 I am someone who does not stop learning, and I am someone who wants to spend as much time as possible studying new things or doing interesting projects.
 If you have a project and you need someone to carry it out, I am the right person!
+
+To see in detail the places where I worked: https://ignasave.github.io
